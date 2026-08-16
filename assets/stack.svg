@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="1" stop-color="#0a1c34"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="430" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="21" fill="none" stroke="#7dd3fc" stroke-opacity=".12"/>
+
+  <text x="48" y="52" font-family="ui-monospace, monospace" font-size="12" letter-spacing="1.4" fill="#38bdf8">TECH STACK</text>
+
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="48" y="101" font-size="18" font-weight="700" fill="#f8fafc">Languages</text>
+    <text x="48" y="132" font-size="14" fill="#94a3b8">Python   JavaScript   TypeScript   C++   PHP   Java</text>
+
+    <text x="48" y="191" font-size="18" font-weight="700" fill="#f8fafc">Frontend</text>
+    <text x="48" y="222" font-size="14" fill="#94a3b8">React   Next.js   Vite   Tailwind CSS   Three.js   WebGL   Flutter</text>
+
+    <text x="48" y="281" font-size="18" font-weight="700" fill="#f8fafc">Backend and data</text>
+    <text x="48" y="312" font-size="14" fill="#94a3b8">Django   DRF   Laravel   Node.js   Spring   PostgreSQL   PostGIS   MySQL   Redis</text>
+
+    <text x="48" y="371" font-size="18" font-weight="700" fill="#f8fafc">AI and infrastructure</text>
+    <text x="48" y="402" font-size="14" fill="#94a3b8">PyTorch   OpenCV   scikit-learn   Docker   Linux   Git   GitHub   CI/CD</text>
+  </g>
+</svg>
